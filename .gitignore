@@ -7,7 +7,7 @@ __pycache__/
 *.pyc
 
 # ML artifacts
-*.pkl
+# *.pkl
 *.joblib
 *.h5
 
